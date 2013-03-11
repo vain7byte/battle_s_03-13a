@@ -96,7 +96,7 @@ def main():
                     break
 
             if check_winner("o"):
-                print "You loose!"
+                print "You've lost your brain!"
                 break
 
         else:
